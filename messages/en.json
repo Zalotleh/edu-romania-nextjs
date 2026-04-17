@@ -1,0 +1,558 @@
+{
+  "nav": {
+    "home": "Home",
+    "whyRomania": "Why Romania",
+    "universities": "Universities",
+    "cities": "Cities",
+    "lifeInRomania": "Life in Romania",
+    "services": "Services",
+    "pricing": "Pricing",
+    "blog": "Blog",
+    "about": "About",
+    "getStarted": "Get Started"
+  },
+  "footer": {
+    "tagline": "Helping students discover Romania and navigate every step of studying abroad.",
+    "explore": "Explore",
+    "services": "Services",
+    "contact": "Contact",
+    "allRights": "All rights reserved.",
+    "links": {
+      "whyRomania": "Why Romania",
+      "universities": "Universities",
+      "cities": "Cities",
+      "life": "Life in Romania",
+      "blog": "Blog",
+      "ourServices": "Our Services",
+      "pricing": "Pricing",
+      "about": "About Us",
+      "contactUs": "Contact"
+    }
+  },
+  "home": {
+    "badge": "Education Consulting",
+    "heroTitle": "Study in {highlight}.\nBuild your future.",
+    "heroHighlight": "Romania",
+    "heroDesc": "We guide students through every step -- from choosing a university to landing in Romania. EU-recognised degrees, affordable tuition, and a continent to explore.",
+    "ctaStart": "Start Your Journey",
+    "ctaUniversities": "Explore Universities",
+    "stats": {
+      "publicUnis": "Public universities",
+      "privateUnis": "Private universities",
+      "accredited": "Accredited institutions",
+      "internet": "Fastest internet in world"
+    },
+    "whyTitle": "Why study in Romania?",
+    "whyDesc": "A hidden gem in the heart of Europe -- world-class education at a fraction of the cost.",
+    "servicesTitle": "What we offer",
+    "servicesDesc": "Complete services from your first inquiry to your first day of class.",
+    "universitiesTitle": "Top Universities",
+    "universitiesDesc": "From the oldest institutions in south-eastern Europe to the newest research powerhouses.",
+    "ctaTitle": "Ready to get started?",
+    "ctaDesc": "Book a free consultation today and let us map your path to your dream university.",
+    "ctaBook": "Book a free consultation",
+    "ctaLearnMore": "Learn more about our services",
+    "learnMore": "Learn more",
+    "viewAll": "View all universities",
+    "founded": "Founded",
+    "reasons": {
+      "euDegrees": {
+        "title": "EU-Recognised Degrees",
+        "body": "Your diploma and the Diploma Supplement are automatically bilingual and recognised across Europe."
+      },
+      "affordable": {
+        "title": "Low Tuition & Living Costs",
+        "body": "Some of the lowest education and living costs in the EU while maintaining high academic standards."
+      },
+      "languages": {
+        "title": "Study in Multiple Languages",
+        "body": "Programs in English, French, German, Romanian, Hungarian -- over 100 accredited institutions to choose from."
+      },
+      "internet": {
+        "title": "World-Class Internet",
+        "body": "Romania ranks 3rd globally for internet speed -- perfect for research, remote work and staying connected."
+      },
+      "culture": {
+        "title": "Rich Culture & Nature",
+        "body": "7 UNESCO World Heritage Sites, 210 sunny days, beaches, mountains, medieval cities -- endlessly explorable."
+      },
+      "safe": {
+        "title": "Safe & Welcoming",
+        "body": "Romania has one of the lowest crime rates in Europe and a warm, hospitable culture."
+      }
+    },
+    "services": {
+      "translation": {
+        "title": "Document Translation",
+        "desc": "Certified translation and attestation of all your academic documents."
+      },
+      "consular": {
+        "title": "Consular Attestations",
+        "desc": "Notarial confirmations and consular authentication handled for you."
+      },
+      "admission": {
+        "title": "University Admission",
+        "desc": "We prepare and submit your application and follow up with universities."
+      },
+      "visa": {
+        "title": "Visa Assistance",
+        "desc": "Step-by-step guidance through Romanian student visa procedures."
+      },
+      "travel": {
+        "title": "Travel & Arrival",
+        "desc": "Flight booking support and airport pick-up on your arrival day."
+      },
+      "accommodation": {
+        "title": "Accommodation",
+        "desc": "University dormitory or private apartment reservations."
+      },
+      "residency": {
+        "title": "Residency & Insurance",
+        "desc": "Residence permit, health insurance, and bank account setup."
+      },
+      "support": {
+        "title": "Ongoing Support",
+        "desc": "We stay with you -- advising on academics, admin and life in Romania."
+      }
+    }
+  },
+  "whyRomania": {
+    "badge": "Why choose Romania?",
+    "title": "More than Dracula's castle",
+    "desc": "Medieval cities, cutting-edge research, affordable living and a continent at your doorstep. Romania is Europe's best-kept secret for international students.",
+    "ctaTitle": "Convinced?",
+    "ctaDesc": "Book a free consultation and take the first step toward studying in Romania.",
+    "ctaStart": "Start your application",
+    "ctaContact": "Contact us",
+    "reasons": {
+      "01": {
+        "title": "EU-Recognised Degrees",
+        "body": "Romanian universities are part of the Bologna Process, meaning your degree and Diploma Supplement are automatically recognised across all EU member states and beyond. Whether you pursue a career in Europe, Canada, or the Gulf, your qualification opens doors."
+      },
+      "02": {
+        "title": "Affordable Tuition & Living",
+        "body": "Romania has some of the EU's lowest tuition fees and cost of living. A student can comfortably cover accommodation, food, transport and leisure on €400-600/month in most cities -- a fraction of Western European costs with none of the compromise on quality."
+      },
+      "03": {
+        "title": "Study in Multiple Languages",
+        "body": "With over 100 accredited institutions, you can pursue programmes in English, French, German, Romanian or Hungarian. This multilingual environment enriches your academic experience and opens future career paths across language markets."
+      },
+      "04": {
+        "title": "World-Class Internet",
+        "body": "Romania consistently ranks among the top 3 countries globally for internet connectivity and speed. For research, remote internships, or simply staying connected with family, Romania's digital infrastructure is second to none."
+      },
+      "05": {
+        "title": "Rich History & Culture",
+        "body": "Home to 7 UNESCO World Heritage Sites, medieval cities, painted monasteries, Carpathian mountains and Black Sea beaches -- Romania is endlessly explorable. With 210 sunny days per year and a vibrant student cultural scene, life here is full."
+      },
+      "06": {
+        "title": "Safety & Quality of Life",
+        "body": "Romania is consistently ranked among the safest countries in Europe, with a crime rate well below the EU average. The population of ~20 million is warm and hospitable, and the quality of air ranks 48th worldwide by WHO standards."
+      },
+      "07": {
+        "title": "Academic Tradition",
+        "body": "Romania has a centuries-old academic heritage. The University of Iași (1860) and University of Bucharest (1864) are among the oldest in south-eastern Europe. Four Romanian universities feature in the QS World University Rankings."
+      },
+      "08": {
+        "title": "Part-Time Work Opportunities",
+        "body": "As an international student you can work part-time -- BPO centres, startups and NGOs actively recruit bilingual students. Student discounts on transport, culture and accommodation further reduce expenses."
+      }
+    }
+  },
+  "universities": {
+    "badge": "Where to study",
+    "title": "Romanian Universities",
+    "desc": "Browse top Romanian universities for international students. Full English, French and German-language programmes.",
+    "public": "Public",
+    "private": "Private",
+    "founded": "Founded",
+    "languages": "Languages",
+    "programs": "Programs",
+    "ctaTitle": "Find your perfect university",
+    "ctaDesc": "Our team's extensive experience across all Romanian universities will help you make the right choice.",
+    "ctaStart": "Start your application",
+    "unis": {
+      "universityOfBucharest": {
+        "name": "University of Bucharest",
+        "city": "Bucharest",
+        "highlight": "Second oldest HEI in Romania. 18 faculties. Partners in 50 institutions across 40 countries. QS World ranked.",
+        "fullDesc": "The University of Bucharest was founded in 1864 by a decree of Prince Alexander Ioan Cuza, transforming the Academy of Saint Sava into the first national university. Today it has 18 faculties covering a wide range of disciplines and cooperates with more than 50 institutions of higher education in 40 countries through international exchange programmes."
+      },
+      "babesBolyai": {
+        "name": "Babeș-Bolyai University",
+        "city": "Cluj-Napoca",
+        "highlight": "Largest university in Romania. #1 national ranking. 21 colleges. Research-focused.",
+        "fullDesc": "Founded in 1919 (with roots to 1581), Babeș-Bolyai University is the largest higher education institution in Romania, ranked first by the Romanian Ministry of Education and Research. With 21 colleges offering undergraduate, master's and PhD programmes in multiple languages, it attracts students from across the world."
+      },
+      "iuliuHatieganu": {
+        "name": "Iuliu Hațieganu University of Medicine & Pharmacy",
+        "city": "Cluj-Napoca",
+        "highlight": "Oldest medical school in Transylvania. 9,000+ students, 3,000 resident physicians.",
+        "fullDesc": "The oldest medical education institution in Transylvania, Iuliu Hațieganu University traces its origins to a faculty of medicine founded in 1919 as part of the University of Upper Dacia. It now hosts over 9,000 local and international students, 3,000 resident physicians and more than 1,200 teachers and researchers."
+      },
+      "alexandruCuza": {
+        "name": "Alexandru Ioan Cuza University",
+        "city": "Iași",
+        "highlight": "Oldest university in Romania. Founded by Prince Alexandru Ioan Cuza. QS ranked.",
+        "fullDesc": "Founded in 1860 by Prince Alexandru Ioan Cuza, this is the oldest university in Romania. Located in Iași, north-eastern Romania, it is a comprehensive research university with strong humanities and sciences traditions."
+      },
+      "westTimisoara": {
+        "name": "West University of Timișoara",
+        "city": "Timișoara",
+        "highlight": "Ranked 4th among Romanian universities globally. Top 800 QS World Universities.",
+        "fullDesc": "Established in 1962 and ranked as the 4th Romanian university in global tables, the West University of Timișoara is a comprehensive institution noted for its multidisciplinary approach and strong international connections. Timișoara, the 2023 European Capital of Culture, provides a vibrant backdrop for student life."
+      },
+      "polytehnicaTimisoara": {
+        "name": "Politehnica University of Timișoara",
+        "city": "Timișoara",
+        "highlight": "Engineering-focused. Civil, Chemical, Electronic, Mechanical and more.",
+        "fullDesc": "Founded in 1920, Politehnica University of Timișoara is the leading engineering education institution in north-western Romania, offering 16 engineering disciplines and collaborating with major European companies in research and development."
+      }
+    }
+  },
+  "cities": {
+    "badge": "Where to study",
+    "title": "Student cities in Romania",
+    "desc": "From the grand capital to charming Transylvanian towns -- each city has its own personality and advantages.",
+    "population": "Population",
+    "students": "Students",
+    "universities": "Universities",
+    "avgRent": "Avg. rent",
+    "ctaTitle": "Ready to move to your city?",
+    "ctaDesc": "Our local advisors in every city will help you settle in fast.",
+    "ctaStart": "Start your application",
+    "cities": {
+      "bucharest": {
+        "name": "Bucharest",
+        "tagline": "The capital -- grand, dynamic and full of opportunity",
+        "body": "Bucharest is Romania's political, economic and cultural capital. Known as the \"Paris of the East\" for its wide boulevards and Belle Époque architecture, it houses more than 40 museums and a thriving arts and startup scene. The city never sleeps -- world-class restaurants, massive music festivals and a growing tech industry make it an exciting base for ambitious students.",
+        "highlights": ["40+ museums", "Vibrant nightlife & culture", "Major job market", "Well-connected airport"]
+      },
+      "clujNapoca": {
+        "name": "Cluj-Napoca",
+        "tagline": "Romania's student capital -- young, energetic, tech-forward",
+        "body": "Often called the \"Silicon Valley of Eastern Europe\", Cluj-Napoca is Romania's fastest-growing city and the undisputed student capital. Home to Babeș-Bolyai University (the largest in Romania), it hosts Electric Castle, one of Europe's leading music festivals. The city blends medieval old town charm with a modern startup ecosystem and an incredibly international student community.",
+        "highlights": ["Electric Castle festival", "Top IT hub", "Vibrant student life", "Low cost vs Bucharest"]
+      },
+      "timisoara": {
+        "name": "Timișoara",
+        "tagline": "2023 European Capital of Culture -- multicultural and welcoming",
+        "body": "Timișoara, the 2023 European Capital of Culture, is a truly multicultural city near the borders of Hungary and Serbia. Its Baroque city centre is one of the most beautiful in Romania and the city's café culture, street art and international connections make it a fantastic place to study. It's also one of the most affordable major cities for students.",
+        "highlights": ["European Capital of Culture", "Lowest student living costs", "Multicultural community", "Close to Hungary & Serbia"]
+      },
+      "iasi": {
+        "name": "Iași",
+        "tagline": "The cultural capital of Moldova -- historic and affordable",
+        "body": "Iași (pronounced \"Yash\") is Romania's cultural and academic heart in the north-east. Home to the oldest university in the country (Alexandru Ioan Cuza, 1860), it's steeped in history with stunning Neogothic architecture, beautiful parks and an intimate student atmosphere. It's also the most affordable major university city in Romania.",
+        "highlights": ["Oldest Romanian university", "Most affordable city", "Rich cultural heritage", "Strong academic tradition"]
+      },
+      "targuMures": {
+        "name": "Târgu Mureș",
+        "tagline": "The medical capital of Transylvania",
+        "body": "Târgu Mureș is a compact, bilingual (Romanian-Hungarian) Transylvanian city that punches above its weight in medical education. Home to the UMFST university, it attracts international medical students from across the globe. The city is safe, friendly and far more affordable than larger cities, making it ideal for focused study.",
+        "highlights": ["Major medical university", "Bilingual Romanian-Hungarian", "Compact & safe", "Very affordable"]
+      }
+    }
+  },
+  "life": {
+    "badge": "Student Life",
+    "title": "Life in Romania",
+    "desc": "Everything you need to know about student life in Romania -- climate, culture, food, costs and more.",
+    "ctaTitle": "Ready to live in Romania?",
+    "ctaDesc": "Our on-the-ground team in Bucharest, Cluj-Napoca and Timișoara is ready to receive you.",
+    "ctaContact": "Contact us",
+    "ctaServices": "Explore our services",
+    "sections": {
+      "welcome": {
+        "title": "Welcome to Romania",
+        "content": "Romania sits at the crossroads of Central, Eastern and South-Eastern Europe, bordering Hungary, Serbia, Bulgaria, Ukraine, Republic of Moldova and the Black Sea. With an area of 238,391 km² -- 12th largest in Europe -- and a population of approximately 20 million, it is the 9th largest EU country by area. Bucharest, the capital, is home to over 2 million people.\n\nThe word \"Romania\" first came into use when three historic regions -- Wallachia, Moldavia and Transylvania -- were unified in 1859, reflecting the country's Latin heritage rooted in ancient Rome. Today its landscape is perfectly balanced between mountains (31%), hills (33%) and plains (36%)."
+      },
+      "climate": {
+        "title": "Climate & Seasons",
+        "content": "Romania has a temperate-continental climate with four distinct seasons and around 210 sunny days per year.\n\nSpring is delightful -- cool mornings warming to 20°C afternoons. Summer is hot and dry in the south (up to 35°C in July-August), more comfortable in the mountains. Autumn is dry with colourful foliage -- September especially is ideal for visiting. Winter runs December-February, with average temperatures of −3°C in Bucharest; snowfall is common in the plains and heavy in the mountains.\n\nAnnual average temperature is 11°C in the south and 8°C in the north-east."
+      },
+      "culture": {
+        "title": "Culture & People",
+        "content": "Romania is ethnically and culturally diverse: Romanian (88.9%), Hungarian (6.6%), Roma (3.3%), Ukrainian, German and Turkish minorities. The official language is Romanian -- a Latin language with about 1,700 years of history. Hungarian is widely spoken in Transylvania; German in Sibiu and Brașov areas.\n\nThe dominant religion is Orthodox Christianity, with significant Catholic, Baptist, Pentecostal and Muslim minorities. Romanians are known for their warmth and hospitality -- guests are always offered food and drink, and greetings among friends typically involve a kiss on both cheeks.\n\nRomania has a vibrant folk tradition: painted eggs at Easter, hand-crafted pottery, textile embroidery, wood carving, folk masks and traditional costumes worn at festivals."
+      },
+      "food": {
+        "title": "Food in Romania",
+        "content": "Romanian cuisine is hearty and flavourful, built around seasonal ingredients and slow-cooked dishes.\n\nTypical breakfasts are savoury -- eggs, sandwiches with butter and cold cuts, or pastries with jam, usually with coffee or tea. The main meal is at midday and typically includes a soup or ciorbă (sour soup) followed by a meat-based main course. Popular dishes include:\n\n- Mititei: grilled minced-meat rolls with garlic, a Romanian staple\n- Sarmale: cabbage or vine leaves stuffed with spiced rice and meat\n- Mămăligă: polenta served with sour cream and eggs\n- Tocană: slow-cooked pork with garlic and onion\n- Borș de miel: lamb and vegetable sour soup\n\nRomania produces excellent wines (mostly red from Dealu Mare) and the local plum brandy țuică is a national tradition."
+      },
+      "costs": {
+        "title": "Cost of Living",
+        "content": "Romania offers outstanding value for international students -- one of the lowest costs of living in the EU while maintaining a high quality of life.\n\n- Dormitory room: €80-150/mo\n- Private room / studio: €180-350/mo\n- Monthly groceries: €100-150\n- Public transport pass: €10-20\n- Mobile phone plan: €5-10\n- Eating out (lunch): €4-8\n- Total estimate: €400-650/month\n\nStudents receive significant discounts on public transport, museum entry and cultural events. Part-time work opportunities exist at call centres, startups and student organisations."
+      },
+      "academics": {
+        "title": "Academics & University Life",
+        "content": "Romanian universities participate in the Bologna Process for unified European higher education, ensuring mutual recognition of qualifications. Most foreign-language programmes operate to international standards while integrating students into the local community.\n\nThe university year typically runs September/October to January (Semester 1) and February to June (Semester 2). The academic year ends with exams in July. Student life is active with academic clubs, sports organisations and cultural associations."
+      }
+    }
+  },
+  "services": {
+    "badge": "What we offer",
+    "title": "Complete student services",
+    "desc": "From your first inquiry to your first day of class, we handle every detail so you can focus on your future.",
+    "stepsLabel": "Steps",
+    "ctaTitle": "Ready to start?",
+    "ctaDesc": "Book a free consultation and let us map your route to studying in Romania.",
+    "ctaBook": "Book a free consultation",
+    "ctaLearnPricing": "View pricing",
+    "services": {
+      "translation": {
+        "title": "Document Translation & Attestation",
+        "desc": "We handle the certified translation of all your academic documents (diplomas, transcripts, certificates) into Romanian or other required languages, plus official attestation stamps from the relevant authorities.",
+        "steps": ["Submit digital copies", "Certified translation", "Notarisation", "Ministry attestation"]
+      },
+      "consular": {
+        "title": "Consular & Notarial Confirmations",
+        "desc": "We coordinate consular attestations and notarial confirmations of your documents at Romanian embassies or in your home country so your credentials meet university requirements.",
+        "steps": ["Document audit", "Embassy appointment", "Apostille / attestation", "Delivery to university"]
+      },
+      "admission": {
+        "title": "University Application",
+        "desc": "From choosing the right program and institution to preparing your application file and submitting it to the relevant admissions office -- we manage the entire process.",
+        "steps": ["Program selection", "Application file prep", "Submission & follow-up", "Admission letter"]
+      },
+      "visa": {
+        "title": "Student Visa Assistance",
+        "desc": "We guide you through Romanian student visa requirements, help you compile your visa dossier, and liaise with the consulate to minimise delays.",
+        "steps": ["Requirements check", "Dossier preparation", "Consulate submission", "Visa collection"]
+      },
+      "travel": {
+        "title": "Travel & Airport Reception",
+        "desc": "We assist with booking your flight and ensure a smooth arrival -- our team receives you at the airport and safely transfers you to your accommodation on day one.",
+        "steps": ["Flight booking advice", "Airport meet & greet", "Transfer to accommodation", "City orientation"]
+      },
+      "accommodation": {
+        "title": "Accommodation Booking",
+        "desc": "We arrange university dormitory placements or vetted private apartments so you have a comfortable, safe home ready before you land.",
+        "steps": ["Budget & preference review", "Options shortlist", "Booking confirmation", "Key handover"]
+      },
+      "residency": {
+        "title": "Residency, Insurance & Banking",
+        "desc": "Once you arrive, we assist with registering your residence permit, enrolling in health insurance, and opening a Romanian bank account -- the three essentials of student life.",
+        "steps": ["Residence permit filing", "Insurance enrolment", "Bank account setup", "ID card assistance"]
+      },
+      "support": {
+        "title": "Ongoing Student Support",
+        "desc": "Our support doesn't end at arrival. We stay available throughout your studies to help with administrative issues, academic navigation, and anything else that comes up.",
+        "steps": ["Dedicated contact person", "Admin issue resolution", "Academic advice", "Alumni network"]
+      }
+    }
+  },
+  "pricing": {
+    "badge": "Pricing",
+    "title": "Transparent pricing",
+    "desc": "No hidden fees. Choose the plan that fits your needs.",
+    "oneTime": "one-time",
+    "included": "Included",
+    "notIncluded": "Not included",
+    "ctaTitle": "Have questions?",
+    "ctaDesc": "Book a free 15-minute call with one of our advisors to help you choose the right plan.",
+    "ctaBook": "Book a free call",
+    "faqTitle": "Frequently asked questions",
+    "plans": {
+      "essential": {
+        "name": "Essential",
+        "description": "For students who just need the paperwork handled.",
+        "features": [
+          "Document translation & attestation",
+          "University application preparation",
+          "Application submission & follow-up",
+          "Admission letter support",
+          "Email support (30 days)"
+        ],
+        "notIncluded": ["Visa assistance", "Airport reception", "Accommodation booking", "Residency support"],
+        "cta": "Get started"
+      },
+      "fullService": {
+        "name": "Full Service",
+        "description": "Everything covered -- from your first document to your front door.",
+        "features": [
+          "Everything in Essential",
+          "Visa assistance & dossier preparation",
+          "Flight booking assistance",
+          "Airport reception & transfer",
+          "Accommodation booking",
+          "City orientation on arrival",
+          "Priority support (3 months)",
+          "Dedicated advisor"
+        ],
+        "notIncluded": ["Residency permit", "Health insurance setup", "Bank account setup"],
+        "cta": "Most popular"
+      },
+      "complete": {
+        "name": "Complete",
+        "description": "The full end-to-end experience -- we don't stop until you're settled.",
+        "features": [
+          "Everything in Full Service",
+          "Residence permit filing",
+          "Health insurance enrolment",
+          "Bank account setup assistance",
+          "Ongoing academic support (1 year)",
+          "WhatsApp priority line",
+          "Alumni network access"
+        ],
+        "notIncluded": [],
+        "cta": "Best value"
+      }
+    },
+    "faqs": [
+      {
+        "q": "When do I pay?",
+        "a": "A 50% deposit is required to start the process. The remaining 50% is due once you receive your university admission letter."
+      },
+      {
+        "q": "What if my application is rejected?",
+        "a": "If your application is rejected due to our error, we will resubmit at no extra charge. If required documents are missing on your side, we will advise you on the fastest remediation path."
+      },
+      {
+        "q": "Can I upgrade my plan later?",
+        "a": "Yes. You can upgrade from Essential to Full Service or Complete at any time by paying the difference."
+      },
+      {
+        "q": "Do you work with students from all countries?",
+        "a": "Yes, we work with students from all over the world. We specialise in serving students from Arab countries, Africa and Asia, but we welcome students from everywhere."
+      }
+    ]
+  },
+  "blog": {
+    "badge": "Blog",
+    "title": "Articles & Guides",
+    "desc": "Articles, guides and tips about studying in Romania.",
+    "readMore": "Read more",
+    "minRead": "min read",
+    "ctaTitle": "Have a specific question?",
+    "ctaDesc": "Speak directly with one of our advisors.",
+    "ctaContact": "Contact us",
+    "categories": {
+      "Universities": "Universities",
+      "StudentLife": "Student Life",
+      "Admissions": "Admissions",
+      "Visa": "Visa"
+    },
+    "posts": {
+      "babes-bolyai-university-cluj-napoca": {
+        "title": "Babeș-Bolyai University of Cluj-Napoca -- Complete Guide",
+        "excerpt": "Founded in 1919 (with roots to 1581), Babeș-Bolyai is the largest university in Romania. Here is everything you need to know about programs, admission and student life at BBU."
+      },
+      "politehnica-university-timisoara": {
+        "title": "Politehnica University of Timișoara -- Engineering in Romania",
+        "excerpt": "Civil, Chemical, Electronic, Mechanical, Systems Engineering and more -- Politehnica Timișoara offers 16 engineering disciplines. Our complete guide for aspiring engineers."
+      },
+      "cost-of-living-in-romania": {
+        "title": "Cost of Living in Romania for Students (2024)",
+        "excerpt": "Romania is one of the most affordable student destinations in the EU. We break down rent, food, transport and monthly budgeting for students in each major city."
+      },
+      "iuliu-hatieganu-medical-university": {
+        "title": "Iuliu Hațieganu University -- Studying Medicine in Cluj-Napoca",
+        "excerpt": "The oldest medical school in Transylvania, with 9,000+ students and programmes in English and French. Everything you need to know about admission to Iuliu Hațieganu."
+      },
+      "required-documents-for-romanian-universities": {
+        "title": "Required Documents for University Admission in Romania",
+        "excerpt": "A complete checklist of documents needed to apply to a Romanian university -- diplomas, transcripts, apostilles, translations and more."
+      },
+      "student-visa-romania-guide": {
+        "title": "How to Get a Student Visa for Romania -- Step-by-Step Guide",
+        "excerpt": "Everything you need to know about the Romanian student visa (D/SD): required documents, processing time, the consulate interview and what happens after arrival."
+      },
+      "student-accommodation-bucharest": {
+        "title": "Student Accommodation in Bucharest -- Complete Guide",
+        "excerpt": "Dormitories, private apartments, recommended neighbourhoods and what to expect on various budgets -- the complete guide to finding a home in Bucharest."
+      },
+      "best-programs-for-international-students": {
+        "title": "Best Programs for International Students at Romanian Universities",
+        "excerpt": "An overview of the most sought-after accredited programmes in English and French at Romanian universities, ranked by discipline."
+      }
+    }
+  },
+  "about": {
+    "badge": "About us",
+    "title": "Driven by experience, committed to your success",
+    "desc": "EduRomania was born from a real experience of studying in Romania as a foreign student. We're here because no one was here for us.",
+    "ourStory": "Our story",
+    "ourStoryBody": "Our founder, Ziad Al-Otleh, arrived in Romania as an international student and navigated the bureaucracy, document marathons and language barriers that so many face. EduRomania was born from that experience -- from the desire to ensure every student can focus on their studies and experiences, not paperwork and administrative hurdles.",
+    "membersTitle": "Our team",
+    "ctaTitle": "Ready to join thousands of graduates?",
+    "ctaDesc": "Book a free consultation today and let's get started together.",
+    "ctaStart": "Get started",
+    "ctaContact": "Contact us",
+    "values": {
+      "mission": {
+        "title": "Mission",
+        "body": "To remove every barrier between a motivated student and a high-quality Romanian university education. We believe geography and bureaucracy should never stop talent."
+      },
+      "approach": {
+        "title": "Approach",
+        "body": "We treat each student as an individual. Our advisors take time to understand your goals, budget and aspirations before recommending any path."
+      },
+      "experience": {
+        "title": "Experience",
+        "body": "Our team has guided hundreds of international students to Romanian universities. We know every institution, every city and every administrative nuance."
+      },
+      "commitment": {
+        "title": "Commitment",
+        "body": "We don't disappear after your visa is stamped. Our relationship continues throughout your studies and into your early career."
+      }
+    },
+    "team": {
+      "founder": {
+        "name": "Ziad Al-Otleh",
+        "role": "Founder & Lead Advisor",
+        "bio": "Having navigated the Romanian university system firsthand as an international student, Ziad founded EduRomania to ensure no student has to face the process alone. Fluent in Arabic, English and Romanian."
+      },
+      "advisor": {
+        "name": "Student Advisor",
+        "role": "Admissions Specialist",
+        "bio": "Our admissions specialist has in-depth knowledge of every Romanian university's requirements and maintains direct relationships with admissions offices across the country."
+      },
+      "local": {
+        "name": "Local Support",
+        "role": "On-the-Ground Team",
+        "bio": "Based in Bucharest, Cluj-Napoca and Timișoara, our local team ensures students are received, settled and supported from the moment they land."
+      }
+    }
+  },
+  "contact": {
+    "badge": "Get in touch",
+    "title": "Let's talk",
+    "desc": "Have questions about studying in Romania? Ready to start your application? Book a free consultation or send us a message -- we reply within 24 hours.",
+    "detailsTitle": "Contact details",
+    "detailsDesc": "Reach us through any of the channels below. Our team is multilingual -- Arabic, English, Romanian.",
+    "email": "Email",
+    "phoneWhatsapp": "Phone / WhatsApp",
+    "whatsapp": "WhatsApp",
+    "sendMessage": "Send a message",
+    "responseTime": "Response time",
+    "within24": "Within 24 hours",
+    "monSat": "Mon-Sat, 9:00-18:00 EET",
+    "formTitle": "Send us a message",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "firstNamePlaceholder": "Your first name",
+    "lastNamePlaceholder": "Your last name",
+    "email2": "Email",
+    "emailPlaceholder": "example@email.com",
+    "phone": "Phone (optional)",
+    "phonePlaceholder": "+1 ...",
+    "subject": "Subject",
+    "subjectPlaceholder": "How can we help?",
+    "message": "Message",
+    "messagePlaceholder": "Tell us about your situation -- your country, current study level, program of interest...",
+    "submit": "Send message",
+    "privacy": "By submitting this form, you agree to our",
+    "privacyPolicy": "Privacy Policy",
+    "and": "and",
+    "terms": "Terms of Service"
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "readMore": "Read more",
+    "viewAll": "View all",
+    "getStarted": "Get started",
+    "contactUs": "Contact us",
+    "free": "Free",
+    "popular": "Most popular"
+  }
+}
