@@ -1,7 +1,7 @@
 'use client'
 
 import Link from 'next/link'
-import { usePathname, useRouter } from 'next/navigation'
+import { usePathname, useRouter } from '@/i18n/routing'
 import { useState } from 'react'
 import { Menu, X, GraduationCap, Globe } from 'lucide-react'
 import { useTranslations, useLocale } from 'next-intl'
@@ -28,15 +28,7 @@ export default function Navbar() {
 
   // Switch locale while staying on the same path
   function switchLocale(newLocale: string) {
-    let path = pathname
-    if (path.startsWith('/en')) {
-      path = path.slice(3) || '/'
-    }
-    if (newLocale === 'ar') {
-      router.push(path)
-    } else {
-      router.push(`/${newLocale}${path === '/' ? '' : path}`)
-    }
+    router.replace(pathname, { locale: newLocale })
   }
 
   const otherLocale = locale === 'ar' ? 'en' : 'ar'
